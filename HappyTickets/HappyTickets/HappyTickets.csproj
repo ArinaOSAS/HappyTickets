@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\pngwing.com %281%29.png" />
+    <None Remove="Image\Билет.png" />
+    <None Remove="Image\Крестик.png" />
+    <None Remove="Image\Черта.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OxyPlot.Wpf" Version="2.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\pngwing.com (1).png" />
+    <Resource Include="Image\Билет.png" />
+    <Resource Include="Image\Крестик.png" />
+    <Resource Include="Image\Черта.png" />
+  </ItemGroup>
+
+</Project>

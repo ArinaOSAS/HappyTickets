@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:s="clr-namespace:System;assembly=System.Runtime"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <s:String x:Key="Button_SearhHappyTicket" xml:space="preserve">Поиск счастливых билетов</s:String>
+    <s:String x:Key="Button_SimpleTickets" xml:space="preserve">Поиск простых билетов</s:String>
+    <s:String x:Key="Button_language" xml:space="preserve">Смена языка</s:String>
+    <s:String x:Key="Button_Graph" xml:space="preserve">График плотности</s:String>
+    <s:String x:Key="Button_HappyTickets" xml:space="preserve">Счастливые билеты</s:String>
+    <s:String x:Key="Button_SimpleTickets" xml:space="preserve">Простые билеты</s:String>
+    <s:String x:Key="Label_quantityHappytickets" xml:space="preserve">Количество счастливых билетов:</s:String>
+    <s:String x:Key="Label_quantitytickets" xml:space="preserve">Количество простых билетов:</s:String>
+
+
+</ResourceDictionary>

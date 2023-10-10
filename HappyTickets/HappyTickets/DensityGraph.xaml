@@ -1,0 +1,130 @@
+﻿<Window x:Class="HappyTickets.DensityGraph"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HappyTickets" xmlns:oxy="http://oxyplot.org/wpf"
+        mc:Ignorable="d"
+        Title="DensityGraph" Height="500" Width="750"  WindowStyle="None" WindowStartupLocation="CenterScreen"  ResizeMode="NoResize">
+    <Window.Resources>
+
+        <SolidColorBrush x:Key="WindowBackgroundBrush" Color="#FFE3DEAA"   />
+
+        <ControlTemplate x:Key="ComboBoxToggleButton" TargetType="ToggleButton">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition Width="20" />
+                </Grid.ColumnDefinitions>
+                <Border x:Name="Border" Grid.ColumnSpan="2" CornerRadius="2" Background="#FFE3DEAA" BorderThickness="1" BorderBrush="Black" />
+                <Border Grid.Column="0" CornerRadius="2,0,0,2" Margin="1" Background="#FFE3DEAA" BorderThickness="0,0,1,0" BorderBrush="Black" />
+                <Path x:Name="Arrow" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Data="M 0 0 L 4 4 L 8 0 Z" Stroke="Black" Height="8" Stretch="Fill" Width="13"/>
+            </Grid>
+        </ControlTemplate>
+
+        <Style x:Key="{x:Type ComboBox}" TargetType="ComboBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ComboBox">
+                        <Grid>
+                            <ToggleButton Name="ToggleButton" Template="{StaticResource ComboBoxToggleButton}" Grid.Column="2" Focusable="false" IsChecked="{Binding Path=IsDropDownOpen,Mode=TwoWay,RelativeSource={RelativeSource TemplatedParent}}" ClickMode="Press">
+                            </ToggleButton>
+                            <ContentPresenter Name="ContentSite" IsHitTestVisible="False" Margin="3,3,23,3" VerticalAlignment="Center" HorizontalAlignment="Left" />
+                            <TextBox x:Name="PART_EditableTextBox" Style="{x:Null}"  HorizontalAlignment="Left" VerticalAlignment="Center"  Margin="3,3,23,3" Focusable="True"  Background="Transparent" Visibility="Hidden" IsReadOnly="{TemplateBinding IsReadOnly}"/>
+                            <Popup  Name="Popup" Placement="Bottom" IsOpen="{TemplateBinding IsDropDownOpen}" AllowsTransparency="True" Focusable="False" PopupAnimation="Slide">
+                                <Grid  Name="DropDown" SnapsToDevicePixels="True" MinWidth="{TemplateBinding ActualWidth}" MaxHeight="{TemplateBinding MaxDropDownHeight}">
+                                    <Border  x:Name="DropDownBorder" Background="{StaticResource WindowBackgroundBrush}" BorderThickness="1"/>
+                                    <ScrollViewer Margin="4,6,4,6" SnapsToDevicePixels="True">
+                                        <StackPanel IsItemsHost="True" KeyboardNavigation.DirectionalNavigation="Contained" />
+                                    </ScrollViewer>
+                                </Grid>
+                            </Popup>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90*"></RowDefinition>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="60*"></RowDefinition>
+            <RowDefinition Height="60*"></RowDefinition>
+            <RowDefinition Height="60*"></RowDefinition>
+            <RowDefinition Height="60*"></RowDefinition>
+            <RowDefinition Height="55*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.ColumnSpan="5" MouseDown="WrapPanel_mouseDown">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#F0E68C" Offset="0.409"/>
+                    <GradientStop Color="#FFE3DEAA" Offset="1"/>
+                    <GradientStop Color="#FFFACD" Offset="0.722"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <TextBlock Text ="HAPPY tickets"  Height="auto" Margin="60,0,0,3"   HorizontalAlignment="Left" FontSize="40" FontWeight="Bold" FontFamily="Goudy Stout" FontStyle="Italic" />
+            <Button Height="35" Width="35" Click="Button_minimized"  Background="#F0E68C" BorderBrush="#F0E68C" FontWeight="Bold" Margin="0,0,35,0" HorizontalAlignment="Right" VerticalAlignment="Top">
+                <Image Source="/Image/Черта.png" />
+            </Button>
+            <Button Height="35" Width="35" Click="Button_close"  Background="#F0E68C" BorderBrush="#F0E68C" FontWeight="Bold" HorizontalAlignment="Right" VerticalAlignment="Top">
+                <Image Source="/Image/Крестик.png" RenderTransformOrigin="0.5,0.5" >
+                    <Image.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="44.589"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Image.RenderTransform>
+                </Image>
+            </Button>
+        </Grid>
+
+
+
+        <Grid Grid.ColumnSpan="5" Grid.RowSpan="7"  Grid.Row="1" >
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE3DEAA" Offset="0.005"/>
+
+                </LinearGradientBrush>
+            </Grid.Background>
+        </Grid>
+        <Button Content="Назад" Grid.Column="4"  Height="45" Width="130" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" Background="#FFE3DEAA"  BorderBrush="Black" BorderThickness="2"  Grid.Row="1" Click="Click_Back" />
+        <Label Content="Количество билетов на промежутке" VerticalAlignment="Center" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" FontSize="18" Height="45" FontWeight="Bold" Margin="10,0,110,0"/>
+
+        <TextBox TextChanged="Step_TextChanged" Name="Step" Grid.Column="2"  TextAlignment="Center" FontSize="25" Background="#00E3DEAA" BorderBrush="Black" Grid.Row="1" Width="105" Height="40" HorizontalAlignment="Right" />
+
+        <ComboBox Name="NumberPartionsCombo" Grid.Column="3"  Height="45" Width="140" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" Background="#FFE3DEAA"  BorderBrush="Black" BorderThickness="2"  Grid.Row="1" SelectionChanged="ComboBox_SelectionChanged"/>
+        <TextBlock x:Name="TextComboBox" Grid.Row="1" Text="Партии" Grid.Column="3" Foreground="Black" FontSize="25" FontWeight="Bold" TextAlignment="Center" Margin="10,12,31,10"/>
+        <TextBlock x:Name="PartionComboBox" Grid.Row="0" Grid.Column="3" Foreground="Black" FontSize="15" FontWeight="Bold" TextAlignment="Center" Height="20" VerticalAlignment="Bottom" />
+
+        <oxy:PlotView Model="{Binding PlotModel}" Grid.Row="2" Grid.RowSpan="5" Grid.ColumnSpan="5" BorderBrush="Black" BorderThickness="3" Margin="25,0,10,25"  ></oxy:PlotView>
+
+        <Label Content="Номера билетов" Grid.Row="6" Grid.Column="2" FontSize="17" VerticalAlignment="Bottom" FontWeight="Bold"/>
+        <Label Content="Количество счастливых билетов" Grid.Row="4" Grid.Column="0" FontSize="17" VerticalAlignment="Bottom" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Margin="-127,0,0,33" Grid.ColumnSpan="2" Width="287">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.284"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+
+
+    </Grid>
+</Window>

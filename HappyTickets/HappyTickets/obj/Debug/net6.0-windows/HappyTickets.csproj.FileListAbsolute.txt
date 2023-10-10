@@ -1,0 +1,161 @@
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.exe
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.deps.json
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.runtimeconfig.json
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.pdb
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\refint\HappyTickets.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.pdb
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\ref\HappyTickets.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\DensityGraph.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\DensityGraph.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTicketsActions.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTicketsActions.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\SimpleTickets.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\SimpleTickets.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.exe
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.deps.json
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.runtimeconfig.json
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.dll
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\ref\HappyTickets.dll
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.pdb
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.AssemblyReference.cache
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\DensityGraph.g.cs
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTicketsActions.g.cs
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\SimpleTickets.g.cs
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets_MarkupCompile.cache
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets_MarkupCompile.lref
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\DensityGraph.baml
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTicketsActions.baml
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\SimpleTickets.baml
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.g.resources
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.AssemblyInfoInputs.cache
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.AssemblyInfo.cs
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.CoreCompileInputs.cache
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.dll
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\ref\HappyTickets.dll
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.pdb
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.genruntimeconfig.cache
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\gr604_koaan\Downloads\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.exe
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.deps.json
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.runtimeconfig.json
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.pdb
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\DensityGraph.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTicketsActions.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\SimpleTickets.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\DensityGraph.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTicketsActions.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\SimpleTickets.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\refint\HappyTickets.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.pdb
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\HappyTickets\Готово почти\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\ref\HappyTickets.dll
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.exe
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.deps.json
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.runtimeconfig.json
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.dll
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\ref\HappyTickets.dll
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.pdb
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.AssemblyReference.cache
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\DensityGraph.g.cs
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTicketsActions.g.cs
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\SimpleTickets.g.cs
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets_MarkupCompile.cache
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets_MarkupCompile.lref
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\DensityGraph.baml
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTicketsActions.baml
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\SimpleTickets.baml
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.g.resources
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.AssemblyInfoInputs.cache
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.AssemblyInfo.cs
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.CoreCompileInputs.cache
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.CopyComplete
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.dll
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\ref\HappyTickets.dll
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.pdb
+C:\Users\gr604_koaan\Desktop\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.exe
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.deps.json
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.runtimeconfig.json
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.dll
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\HappyTickets.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\DensityGraph.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTicketsActions.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\SimpleTickets.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\DensityGraph.baml
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTicketsActions.baml
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\SimpleTickets.baml
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.dll
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\refint\HappyTickets.dll
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\HappyTickets.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\Новая папка\HappyTickets\HappyTickets\obj\Debug\net6.0-windows\ref\HappyTickets.dll

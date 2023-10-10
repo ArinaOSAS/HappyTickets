@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+G7RT24/J5WOAfnZHegFA/4lh1021uSeMJawU6FFt8FZiLI5XmghOx+v/Exc2eHK/v6d5/guRKIcFxWrUE52g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arina\\OneDrive\\Рабочий стол\\Новая папка\\HappyTickets\\HappyTickets\\HappyTickets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arina\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\arina\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\arina\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
